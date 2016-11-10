@@ -1,5 +1,0 @@
-Kim Ha Neul
-Team leader of Amazing Hamburger 5
-User name of git is 'haneulk'
-Our git address is https://github.com/haneulk/amz
-
