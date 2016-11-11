@@ -5,37 +5,38 @@
 
 
 
+
 | studentID        | Name           | UserName  |
 | ---------------- |:--------------:| ---------:|
-| 2013136011       | ±è°æºó         | bbinbbin  |
-| 2013136053       | ¼­´Ù¿¹         | dayehsuh  |
-| 2013136128       | ÃÖ°íÀº         | rhdmschl  |
-| 2013180035       | ±èÇÏ´Ã         | haneulk   |
+| 2013136011       | \B1\E8\B0\E6\BA\F3         | bbinbbin  |
+| 2013136053       | \BC\AD\B4Ù¿\B9         | dayehsuh  |
+| 2013136128       | \C3Ö°\ED\C0\BA         | rhdmschl  |
+| 2013180035       | \B1\E8\C7Ï´\C3         | haneulk   |
 
 
 
-### *1. ÇÊ¿ä¼º*
-¹İº¹ÀûÀÎ ·¹½ÃÇÇ °Ë»ö, Á¼Àº °ø°£, ¾î·Á¿î Àç·á ¼ÕÁú, ³²Àº Àç·áÀÇ ³¶ºñ
+### *1. \C7Ê¿ä¼º*
+\B9İº\B9\C0\FB\C0\CE \B7\B9\BD\C3\C7\C7 \B0Ë»\F6, \C1\BC\C0\BA \B0\F8\B0\A3, \BE\EE\B7\C1\BF\EE \C0\E7\B7\E1 \BC\D5\C1\FA, \B3\B2\C0\BA \C0\E7\B7\E1\C0\C7 \B3\B6\BA\F1
 
 
-### *2. ½Ã½ºÅÛ °³¿ä*
-¾î¸ŞÀÌÂ¡ Å×ÀÌºí ÀÚÃ¼¿¡ Àç·á¼ÕÁú¹ıÀÌ Æ÷ÇÔµÈ ·¹½ÃÇÇ ³»Àå°ú °¡½º·¹ÀÎÁö Æ÷ÇÔ Á¶¸®µµ±¸ Å¾Àç, ÀÖ´Â Àç·á¸¦ È°¿ëÇÏ¿© ¸¸µé ¼ö ÀÖ´Â ¿ä¸®¸¦ °Ë»öÇÏ´Â ±â´ÉÀ» °¡Áø ½Ã½ºÅÛÀÌ´Ù.
-Å×ÀÌºíÀ» »ç¿ëÇÏ¸é ¿ä¸®¸¦ ÇÏ´Â µ¿¾È ´Ù¸¥ ±â±â·Î ·¹½ÃÇÇ¸¦ °Ë»öÇÏÁö ¾Ê¾Æµµ µÈ´Ù.
-Á¶¸®µµ±¸°¡ Å¾ÀçµÇ¾î ÀÖ¾î¼­ °ø°£³¶ºñ¸¦ ÁÙÀÏ ¼ö ÀÖ´Ù.
-³ÃÀå°í¿¡ ³²¾ÆÀÖ´Â Àç·áµéÀ» ÀÌ¿ëÇÑ ·¹½ÃÇÇ¸¦ °Ë»öÇÒ ¼ö ÀÖ´Ù.
-°¢ Àç·áÀÇ ¼ÕÁú¹ıÀ» ¿Ü¿ìÁö ¾Ê¾Æµµ µÈ´Ù.
+### *2. \BDÃ½\BA\C5\DB \B0\B3\BF\E4*
+\BE\EE\B8\DE\C0\CCÂ¡ \C5\D7\C0Ìº\ED \C0\DAÃ¼\BF\A1 \C0\E7\B7\E1\BC\D5\C1\FA\B9\FD\C0\CC \C6\F7\C7Ôµ\C8 \B7\B9\BD\C3\C7\C7 \B3\BB\C0\E5\B0\FA \B0\A1\BD\BA\B7\B9\C0\CE\C1\F6 \C6\F7\C7\D4 \C1\B6\B8\AE\B5\B5\B1\B8 Å¾\C0\E7, \C0Ö´\C2 \C0\E7\B7á¸¦ È°\BF\EB\C7Ï¿\A9 \B8\B8\B5\E9 \BC\F6 \C0Ö´\C2 \BFä¸®\B8\A6 \B0Ë»\F6\C7Ï´\C2 \B1\E2\B4\C9\C0\BB \B0\A1\C1\F8 \BDÃ½\BA\C5\DB\C0Ì´\D9.
+\C5\D7\C0Ìº\ED\C0\BB \BB\E7\BF\EB\C7Ï¸\E9 \BFä¸®\B8\A6 \C7Ï´\C2 \B5\BF\BE\C8 \B4Ù¸\A5 \B1\E2\B1\E2\B7\CE \B7\B9\BD\C3\C7Ç¸\A6 \B0Ë»\F6\C7\CF\C1\F6 \BEÊ¾Æµ\B5 \B5È´\D9.
+\C1\B6\B8\AE\B5\B5\B1\B8\B0\A1 Å¾\C0\E7\B5Ç¾\EE \C0Ö¾î¼­ \B0\F8\B0\A3\B3\B6\BA\F1\B8\A6 \C1\D9\C0\CF \BC\F6 \C0Ö´\D9.
+\B3\C3\C0\E5\B0\ED\BF\A1 \B3\B2\BE\C6\C0Ö´\C2 \C0\E7\B7\E1\B5\E9\C0\BB \C0Ì¿\EB\C7\D1 \B7\B9\BD\C3\C7Ç¸\A6 \B0Ë»\F6\C7\D2 \BC\F6 \C0Ö´\D9.
+\B0\A2 \C0\E7\B7\E1\C0\C7 \BC\D5\C1\FA\B9\FD\C0\BB \BFÜ¿\EC\C1\F6 \BEÊ¾Æµ\B5 \B5È´\D9.
 
 
-### *3. ±âÁ¸°ü·Ã»ç·Ê*
-1. ÇÇÀÚÇê ÀÎÅÍ·¢Æ¼ºê ÅÍÄ¡½ºÅ©¸° Å×ÀÌºí
-2. ÇÑ»ù º¸±Û·¯ ÀÎ´ö¼Ç
+### *3. \B1\E2\C1\B8\B0\FC\B7Ã»\E7\B7\CA*
+1. \C7\C7\C0\DA\C7\EA \C0\CE\C5Í·\A2Æ¼\BA\EA \C5\CDÄ¡\BD\BAÅ©\B8\B0 \C5\D7\C0Ìº\ED
+2. \C7Ñ»\F9 \BA\B8\B1Û·\AF \C0Î´\F6\BC\C7
 
 
-### Âü°í¹®Çå
+### \C2\FC\B0\ED\B9\AE\C7\E5
 > https://goo.gl/Sw3gFq
 
-[½º¸¶Æ® Å×ÀÌºí ÀåÄ¡](http://kportal.kipris.or.kr/kportal/search/total_search.do)
+[\BD\BA\B8\B6Æ® \C5\D7\C0Ìº\ED \C0\E5Ä¡](http://kportal.kipris.or.kr/kportal/search/total_search.do)
 
-[½º¸¶Æ® Å×ÀÌºí ÀåÄ¡][½º¸¶Æ®Å×ÀÌºíÀåÄ¡]
-[½º¸¶Æ®Å×ÀÌºíÀåÄ¡]: http://kportal.kipris.or.kr/kportal/search/total_search.do
+[\BD\BA\B8\B6Æ® \C5\D7\C0Ìº\ED \C0\E5Ä¡][\BD\BA\B8\B6Æ®\C5\D7\C0Ìº\ED\C0\E5Ä¡]
+[\BD\BA\B8\B6Æ®\C5\D7\C0Ìº\ED\C0\E5Ä¡]: http://kportal.kipris.or.kr/kportal/search/total_search.do
 
