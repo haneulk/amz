@@ -1,4 +1,5 @@
-**Amazing Table 2016**{: .text-center }
+**Amazing Table 2016**
+{: .text-center }
 ==================
 
 ![amztable](https://raw.githubusercontent.com/haneulk/amz/master/amztable.png)
