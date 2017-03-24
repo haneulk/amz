@@ -13,10 +13,10 @@
 | 2013180035       | 김하늘         | haneulk   |
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi error quod libero corporis, iste sit nulla similique enim dignissimos asperiores, illo numquam architecto maxime ab tenetur repellendus, dicta sed officia.
-{: .text-center }
+{: .text-right }
 
 ### *1. 필요성*
-{반복적인 레시피 검색, 좁은 공간, 어려운 재료 손질, 남은 재료의 낭비 : .text-center }
+반복적인 레시피 검색, 좁은 공간, 어려운 재료 손질, 남은 재료의 낭비
 
 
 
