@@ -1,5 +1,4 @@
 **Amazing Table 2016**
-{: .text-center }
 ==================
 
 ![amztable](https://raw.githubusercontent.com/haneulk/amz/master/amztable.png)
@@ -17,6 +16,7 @@
 
 ### *1. 필요성*
 반복적인 레시피 검색, 좁은 공간, 어려운 재료 손질, 남은 재료의 낭비
+{: .text-center }
 
 
 ### *2. 시스템 개요*
